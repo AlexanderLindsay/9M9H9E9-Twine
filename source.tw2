@@ -1,0 +1,242 @@
+::Configuration [twee2]
+Twee2::build_config.story_ifid = '0A7926B8-D0D3-45D5-9D86-EB06CDD8A875'
+Twee2::build_config.story_format = './formats/harlowe-2.0.1'
+
+::Twee2Settings [twee2]
+@story_start_name = 'About'
+
+::StoryTitle
+9M9H9E9
+
+::experiments [Post-1] <412,187>
+In the [[//MKULTRA//↗->MKULTRA]] experiments, the [[//CIA//↗->CIA]] dosed unwitting subjects with [[//LSD//↗->LSD]] to see how they would react.
+
+What has not yet come to light is that MKULTRA was an [[intra-agency project]].
+
+::pacify [Post-2] <410,635>
+In [[//Vietnam//↗->Vietnam]], the U.S. government tried to pacify the country village by village using the [[//Strategic Hamlet Program//↗->Strategic Hamlet Program]], basically creating villages where there was no or little Viet Cong influence.
+
+They tried more extreme experiments where they completely isolated villages or groups of villages, allowing absolutely nobody to enter or exit for periods of up to (link-reveal:"four years")[(show:?starved)].
+
+[In some of the villages, people simply starved to (link-reveal:"death")[(show:?scrapby)].](starved|
+
+[In other, more self sufficient villages, the people managed to [[scrape by->movements]].](scrapby|
+
+::MKULTRA <113,200>
+<a href="https://en.wikipedia.org/wiki/Project_MKUltra" target="_blank">Excerpt from Wikipedia</a>
+
+Project MKUltra - sometimes referred to as the [[CIA]]'s mind control program - is the code name given to a program of experiments on human subjects, at times illegal, designed and undertaken by the United States Central Intelligence Agency. Experiments on humans were intended to identify and develop drugs and procedures to be used in interrogations and torture, in order to weaken the individual to force confessions through mind control. Organized through the Scientific Intelligence Division of the CIA, the project coordinated with the Special Operations Division of the U.S. Army's Chemical Corps.
+
+[[Back->experiments]]
+
+::CIA <214,358>
+<a href="https://en.wikipedia.org/wiki/Central_Intelligence_Agency" target="_blank">Excerpt from Wikipedia</a>
+
+The Central Intelligence Agency (CIA) is a civilian foreign intelligence service of the United States federal government, tasked with gathering, processing, and analyzing national security information from around the world, primarily through the use of human intelligence (HUMINT). As one of the principal members of the U.S. Intelligence Community (IC), the CIA reports to the Director of National Intelligence and is primarily focused on providing intelligence for the President and Cabinet.
+
+[[Back->experiments]]
+
+::LSD <576,184>
+<a href="https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide" target="_blank">Excerpt from Wikipedia</a>
+
+Lysergic acid diethylamide (LSD), also known as acid, is a psychedelic drug known for its psychological effects. This may include altered awareness of the surroundings, perceptions, and feelings as well as sensations and images that seem real though they are not. It is used mainly as a recreational drug and for spiritual reasons. LSD is typically either swallowed or held under the tongue. It is often sold on blotter paper, a sugar cube, or gelatin. It can also be injected.
+
+[[Back->experiments]]
+
+::psychoactives <569,314>
+<a href="https://en.wikipedia.org/wiki/Psychoactive_drug" target="_blank">Excerpt from Wikipedia</a>
+
+A psychoactive drug, psychopharmaceutical, or psychotropic is a chemical substance that changes brain function and results in alterations in perception, mood, consciousness or behavior. These substances may be used medically, recreationally, to purposefully improve performance or alter one's consciousness, as entheogens, for ritual, spiritual, or shamanic purposes, or for research. Some categories of psychoactive drugs, which have therapeutic value, are prescribed by physicians and other healthcare practitioners. Examples include anesthetics, analgesics, anticonvulsant and antiparkinsonian drugs as well as medications used to treat neuropsychiatric disorders, such as antidepressants, anxiolytics, antipsychotics, and stimulant medications. Some psychoactive substances may be used in the detoxification and rehabilitation programs for persons dependent on or addicted to other psychoactive drugs.
+
+[[Back->intra-agency project]]
+
+::About <325,55>
+9M9H9E9 was created by reddit user <a href="https://www.reddit.com/user/_9MOTHER9HORSE9EYES9" target="_blank">//`_9MOTHER9HORSE9EYES9`//↗</a>
+
+To learn more look at the <a href="https://www.reddit.com/r/9M9H9E9/" target="_blank">//9M9H9E9 subreddit//↗</a>.
+
+The original reddit posts linked to Wikipedia or other external sites. The first paragraph has been pulled into the twine with a link to the Wikipedia article.
+
+[[Start->Intro]]
+
+::Vietnam <266,520>
+<a href="https://en.wikipedia.org/wiki/Vietnam_War" target="_blank">Excerpt from Wikipedia</a>
+
+The Vietnam War `(Vietnamese: Chiến tranh Việt Nam)`, also known as the Second Indochina War, and known in Vietnam as Resistance War Against America `(Vietnamese: Kháng chiến chống Mỹ)` or simply the American War, was a war that occurred in Vietnam, Laos, and Cambodia from 1 November 1955 to the fall of Saigon on 30 April 1975. It was the second of the Indochina Wars and was officially fought between North Vietnam and the government of South Vietnam. The North Vietnamese army was supported by the Soviet Union, China and other communist allies and the South Vietnamese army was supported by the United States, South Korea, Australia, Thailand and other anti-communist allies. The war is therefore considered a Cold War-era proxy war.
+
+[[Back->pacify]]
+
+::Strategic Hamlet Program <230,654>
+<a href="https://en.wikipedia.org/wiki/Strategic_Hamlet_Program" target="_blank">Excerpt from Wikipedia</a>
+
+The Strategic Hamlet Program `(Vietnamese: Ấp Chiến lược)` was a plan by the governments of South Vietnam and the United States during the Vietnam War to combat the communist insurgency by pacifying the countryside and reducing the influence of the communists among the rural population.
+
+In 1962, the government of South Vietnam, with advice and financing from the United States, began the implementation of the Strategic Hamlet Program. The strategy was to isolate the rural population from contact with and influence by the National Liberation Front (NLF), more commonly known as the Viet Cong. The Strategic Hamlet Program, along with its predecessor, the Rural Community Development Program, played an important role in shaping of events in South Vietnam during the late 1950s and early 1960s. Both of these programs attempted to create new communities of "protected hamlets." The rural peasants would be provided protection, economic support, and aid by the government, thereby strengthening ties with the South Vietnamese government (GVN). It was hoped this would lead to increased loyalty by the peasantry towards the government.
+
+[[Back->pacify]]
+
+::messianic <227,784>
+<a href="https://en.wikipedia.org/wiki/Messianic" target="_blank">Excerpt from Wikipedia</a>
+
+Messianic primarily means "of the Messiah", a religious savior in Abrahamic religions
+
+[[Back->movements]]
+
+::millenarian <564,727>
+<a href="https://en.wikipedia.org/wiki/Millenarianism" target="_blank">Excerpt from Wikipedia</a>
+
+Millenarianism (also millenarism), from Latin mīllēnārius "containing a thousand", is the belief by a religious, social, or political group or movement in a coming major transformation of society, after which all things will be changed. Millenarianism is a concept or theme that exists in many cultures and religions.
+
+[[Back->movements]]
+
+::North Vietnamese Army <572,865>
+<a href="https://en.wikipedia.org/wiki/People%27s_Army_of_Vietnam" target="_blank">Excerpt from Wikipedia</a>
+
+The People's Army of Vietnam `(PAVN; Vietnamese: Quân Đội Nhân Dân Việt Nam)`, also known as the Vietnamese People's Army, is the military force of the Socialist Republic of Vietnam. The PAVN is a part of Vietnam People's Armed Forces and includes: Ground Force (including Strategic Rear Forces), Navy, Air Force, Border Defence Force, and Coast Guard. However, Vietnam does not have a specific separate Ground Force or Army branch. All ground troops, army corps, military districts and specialised arms belong to the Ministry of Defence, directly under command of the Central Military Commission, Minister of Defence, and General Staff of the Vietnam People's Army. The military flag of the PAVN is the flag of the Socialist Republic of Vietnam, with the words Quyết thắng (Determination to win) added in yellow at the top left.
+
+[[Back->advances]]
+
+::intra-agency project [Post-1] <418,344>
+The CIA created new departments within the CIA, and fed them steady doses of LSD, and other [[//psychoactives//↗->psychoactives]] to see how the departments would diverge, and mutate away from normal departments.
+
+Whole projects and hierarchies were created. With everybody involved, being more or less, unwittingly under [[the influence of LSD->hierarchies]].
+
+::hierarchies [Post-1] <418,474>
+This is how the "restraint bed portals" and "flesh interfaces" were first created - i.e. from a heavily psycho-mutated hierarchy.
+
+The entire thing had to be eliminated, but the technology it created has been [[revolutionary.->pacify]]
+
+::Intro [Post-1] <487,59>
+a unite (live: 1.5s)[(t8n: "dissolve")[a stage](stop:)] (live: 3s)[(t8n: "dissolve")[a coup](stop:)] (live: 4.5s)[(t8n: "dissolve")[a revolution](stop:)] (live: 6s)[(t8n: "dissolve")[a genocide](stop:)] (live: 7.5s)[(t8n: "dissolve")[a new world](stop:)] (live: 8.5s)[(t8n: "dissolve")[[[a->experiments]]](stop:)]
+
+::movements [Post-2] <409,781>
+It was noted that in many of the villages where this technique was tried, [[//messianic//↗->messianic]] or [[//millenarian//↗->millenarian]] movements (link-reveal:"sprang up")[(show:?incidences)].
+
+[In 16 separate incidences, villages were able to independently (link-reveal:"invent")[(show:?flesh)]](incidences| ["(link-reveal:"flesh interfaces")[(show:?portals)]"](flesh| [and "(link-reveal:"non-electrical portals")[(show:?end)]"](portals|[, and it was surmised that these villages were being collectively dosed with LSD for long periods of time, and their intellectual mutations allowed for these '[[advances]]'.](end|
+
+::advances [Post-2] <399,934>
+The flesh interfaces were eventually destroyed by the [[//North Vietnamese Army//↗->North Vietnamese Army]] at a terrible cost in [[lives->subs]].
+
+::subs [Post-3] <397,1071>
+I'm surprised they used nuclear subs in the [[//Falklands//↗->Falklands]], considering the battle's proximity to the undersea incident zone surrounding the so-called [[//Artigas//↗->Artigas]] [[portal]].
+
+::portal [Post-3] <399,1215>
+As I understand it, the portal was opened because of experiments taking place in the [[//CIA\'s antarctic station//↗->station]] in the early 80s, and Falklands quickly became a center for portal research.
+
+Being underwater, the portal had an enormous incident zone, and segmented whales and other undersea debris would regularly wash up on the islands' [[shores]].
+
+::shores [Post-3] <399,1365>
+They found one whale that had been segmented cleanly in half by an incident zone disturbance, proving a perfect cross section of the creature.
+
+They also found hundreds of the "[[//chitinous//↗->chitinous]] [[//cruciform//↗->cruciform]]" creatures, certainly non-terrestrial in [[origin]].
+
+::origin [Post-3] <399,1515>
+Anyways, if a nuclear sub had wandered into the incident zone, it could have been disastrous, but I guess they considered the [[risk acceptable]].
+
+::Falklands <203,1072>
+<a href="https://en.wikipedia.org/wiki/Falkland_Islands" target="_blank">Excerpt from Wikipedia</a>
+
+The Falkland Islands (`/ˈfɔːlklənd/; Spanish: Islas Malvinas, pronounced: [ˈizlaz malˈβinas]`) are an archipelago in the South Atlantic Ocean on the Patagonian Shelf. The principal islands are about 300 miles (483 kilometres) east of South America's southern Patagonian coast, at a latitude of about 52°S. The archipelago, with an area of 4,700 square miles (12,000 square kilometres), comprises East Falkland, West Falkland and 776 smaller islands. As a British overseas territory, the Falklands have internal self-governance, and the United Kingdom takes responsibility for their defence and foreign affairs. The islands' capital is Stanley on East Falkland.
+
+[[Back->subs]]
+
+::Artigas <564,1065>
+<a href="https://en.wikipedia.org/wiki/Artigas_Base" target="_blank">Excerpt from Wikipedia</a>
+
+The General Artigas Station (`Spanish: Base Científica Antártica Artigas`), also referred to as the Artigas Base is the larger of the two Uruguayan scientific research stations in Antarctica, the other one being Elichiribehety Base. It is one of the 68 bases in Antarctica.
+
+''Science activities''
+The following science activities are carried out at Base Cientifica Antárctica Artigas:
+
+Environmental monitoring (since 1998)
+Geodesy/mapping (since 1986)
+Glaciology - continental (since 1991)
+Human biology (since 1985)
+Ionospheric/auroral observations (since 1992)
+Meteorological observations (since 1984)
+Stratospheric ozone monitoring (since 1998)
+Tide measurement (since 1989)
+
+[[Back->subs]]
+
+::station <212,1219>
+<a href="https://en.wikipedia.org/wiki/Project_COLDFEET" target="_blank">Excerpt from Wikipedia</a>
+
+Project COLDFEET was a 1962 Central Intelligence Agency (CIA) operation to extract intelligence from an abandoned Soviet Arctic drifting ice station. Due to the nature of its abandonment as the result of unstable ice, the retrieval of the operatives used the Fulton surface-to-air recovery system.
+
+What became known as Operation Coldfeet began in May 1961, when a naval aircraft flying an aeromagnetic survey over the Arctic Ocean reported sighting an abandoned Soviet drift station. A few days later, the Soviets announced that they had been forced to leave Station NP 9 (a different station, NP 8 ended up being the target) when the ice runway used to supply it had been destroyed by a pressure ridge, and it was assumed that it would be crushed in the Arctic Ocean.
+
+[[Back->portal]]
+
+::chitinous <218,1361>
+<a href="https://en.wikipedia.org/wiki/Exoskeleton" target="_blank">Excerpt from Wikipedia</a>
+
+An exoskeleton `(from Greek έξω, éxō "outer" and σκελετός, skeletos "skeleton")` is the external skeleton that supports and protects an animal's body, in contrast to the internal skeleton (endoskeleton) of, for example, a human. In usage, some of the larger kinds of exoskeletons are known as "shells". Examples of animals with exoskeletons include insects such as grasshoppers and cockroaches, and crustaceans such as crabs and lobsters. The shells of certain sponges and the various groups of shelled molluscs, including those of snails, clams, tusk shells, chitons and nautilus, are also exoskeletons. Some animals, such as the tortoise, have both an endoskeleton and an exoskeleton.
+
+[[Back->shores]]
+
+::cruciform <545,1356>
+<a href="https://en.wikipedia.org/wiki/Cruciform" target="_blank">Excerpt from Wikipedia</a>
+
+Cruciform means having the shape of a cross or Christian cross.
+
+''Cruciform DNA''
+
+DNA can undergo transitions to form a cruciform shape, otherwise known as a Holliday junction. This structure is important for the critical biological processes of DNA recombination and repair mutations that occur in the cell.
+
+''Cruciform sword''
+
+The plain sword used by knights, distinctive due to the flat bar used as a guard. The overall shape of the sword when held point down is that of a cross.
+
+It is believed this shape was encouraged by the church to remind Knights of their religion. It was however very popular due to the protection it offered to the hand and certain attacks that rely on the cross to trap the blade of the enemy.
+
+[[Back->shores]]
+
+::risk acceptable [Post-4] <399,1665>
+The [[//Soviets//↗->soviets]] designated large portions of the [[//Ukraine//↗->ukraine]] countryside as "(link-reveal:"harvest populations")[(show:?harvest)]."
+
+[Basically, their food and water supplies were dosed with LSD until they had achieved what the Soviets called "(link-reveal:"integration")[(show:?integration)]".](harvest|
+
+[This meant that the local populations had independently invented (link-reveal: "flesh interfaces")[(show:?interfaces)].](integration|
+
+[The Soviet army would then quarantine the area and try to remove the flesh interfaces for their [[own use]].](interfaces|
+
+::own use <399,1815>
+This was usually without success and with great [[loss of life]].
+
+::loss of life [Post-4] <399,1965>
+Many of the soldiers and scientists were segmented, as often happens in an incident zone. So they ended up with people missing limbs, cut in half, etc. What's interesting is that the people could live for quite some time (link-reveal:"despite segmentation")[(show:?despite)].
+
+[This is what led the Soviets to believe that their missing body parts still existed albeit in some unknown place. So one one of the leading theories of the time was [[//interdimensionality//↗->interdimensionality]].
+
+[[Quite mistaken]].](mistaken|
+
+(live: 2s)[(stop:)(show:?mistaken)]](despite|
+
+::Quite mistaken <399,2115>
+Double-click this passage to edit it.
+
+::soviets <250,1665>
+<a href="https://en.wikipedia.org/wiki/Soviet_Union" target="_blank">Excerpt from Wikipedia</a>
+
+The Soviet Union (`Russian: Сове́тский Сою́з, tr. Sovetskiy Soyuz [sɐ'vʲetskʲɪj sɐˈjʉs]), officially the Union of Soviet Socialist Republics (USSR\; Сою́з Сове́тских Социалисти́ческих Респу́блик (СССР), Soyuz Sovetskikh Sotsialisticheskikh Respublik (SSSR) [sɐˈjus sɐˈvʲɛtskʲɪx sətsɨəlʲɪsˈtʲitɕɪskʲɪx rʲɪˈspublʲɪk]`), was a socialist state in Eurasia that existed from 1922 to 1991. Nominally a union of multiple subnational Soviet republics, its government and economy were highly centralized in a state that was unitary in most respects. The country was a one-party federation, governed by the Communist Party with Moscow as its capital.
+
+[[Back->risk acceptable]]
+
+::ukraine <551,1665>
+<a href="https://en.wikipedia.org/wiki/Ukraine" target="_blank">Excerpt from Wikipedia</a>
+
+Ukraine `(i/juːˈkreɪn/; Ukrainian: Україна, tr. Ukraina [ukrɑˈjinɑ])`, sometimes called the Ukraine, is a sovereign state in Eastern Europe, bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast, respectively. Ukraine is currently in territorial dispute with Russia over the Crimean Peninsula which Russia annexed in 2014 but which Ukraine and most of the international community recognise as Ukrainian. Including Crimea, Ukraine has an area of 603,628 km2 (233,062 sq mi), making it the largest country entirely within Europe and the 46th largest country in the world. It has a population of about 42.5 million, making it the 32nd most populous country in the world.
+
+[[Back->risk acceptable]]
+
+::interdimensionality <272,1984>
+<a href="https://en.wikipedia.org/wiki/Multiverse" target="_blank">Excerpt from Wikipedia</a>
+
+The multiverse (or meta-universe) is the hypothetical set of possible universes, including the universe in which we live. Together, these universes comprise everything that exists: the entirety of space, time, matter, energy, and the physical laws and constants that describe them.
+
+The various universes within the multiverse are called "parallel universes", "other universes", or "alternative universes".
+
+In Dublin in 1952, Erwin Schrödinger gave a lecture in which he jocularly warned his audience that what he was about to say might "seem lunatic". He said that, when his Nobel equations seemed to describe several different histories, these were "not alternatives, but all really happen simultaneously". This is the earliest known reference to the multiverse outside of fiction.
+
+[[Back->loss of life]]

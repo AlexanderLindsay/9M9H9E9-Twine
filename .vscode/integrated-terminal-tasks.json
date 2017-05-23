@@ -1,0 +1,14 @@
+{
+    "build": {
+        "cmd": "twee2 build",
+        "args": ["source.tw2", "publish/9M9H9E9.html"],
+        "stealFocus": true,
+        "shellOptions": {}
+    },
+    "watch": {
+        "cmd": "twee2 watch",
+        "args": ["source.tw2", "publish/9M9H9E9.html"],
+        "stealFocus": false,
+        "shellOptions": {}
+    }
+}
