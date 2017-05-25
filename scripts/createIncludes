@@ -1,0 +1,11 @@
+#!/bin/bash
+dest="includes.tw2"
+currentPost=${PWD##*/}
+files=(*)
+
+echo "::StoryIncludes" >> $dest
+
+for file in "${files[@]}"
+do
+ echo "posts/"$currentPost"/"$file >> $dest
+done

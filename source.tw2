@@ -20,14 +20,7 @@ The original reddit posts linked to Wikipedia or other external sites. The first
 
 ::StoryIncludes
 index.tw2
-posts/post1/start.tw2
-posts/post1/experiments.tw2
-posts/post1/hierarchies.tw2
-posts/post1/intra-agency.tw2
-posts/post1/LSD.tw2
-posts/post1/CIA.tw2
-posts/post1/MKULTRA.tw2
-posts/post1/psychoactives.tw2
-posts/post2/start.tw2
-posts/post3/start.tw2
-posts/post4/start.tw2
+posts/post1/includes.tw2
+posts/post2/includes.tw2
+posts/post3/includes.tw2
+posts/post4/includes.tw2

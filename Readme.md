@@ -58,11 +58,25 @@ Wikipedia excerpts passages should include a link to the wikipedia entry at the 
 
 They should end with a link back to the passage that contains the link `[[Back->post3-subs]]`
 
-To finalize the post add each of the `.tw2` files to the includes in the `source.tw2` file and update the index.tw2 file to add a link to the post entry point.
+To finalize the post create a new file called `includes.tw2` and add line underneath a `::StoryIncludes` for each file in the post. The `createIncludes` bash script in the scripts folder can be used to make this easier. Each file will need the path relative to the `source.tw2` file.
+
+```
+::StoryIncludes
+posts/post1/start.tw2
+posts/post1/experiments.tw2
+posts/post1/hierarchies.tw2
+posts/post1/intra-agency.tw2
+posts/post1/LSD.tw2
+posts/post1/CIA.tw2
+posts/post1/MKULTRA.tw2
+posts/post1/psychoactives.tw2
+```
+
+Then add a reference to the `includes.tw2` file to the `::StoryIncludes` section of the `source.tw2` file. Additionally, add a entry in the `index.tw2` file to start point of the post.
 
 #### Effects
 
-Twine effects such as timed reveals and hiding/showing text should be used to enhance the story but not overwhelm it. This is a matter of opinon, but I am not sure how to avoid this. I would say to try and be consistent with the other posts, but that somehow seems against the sprit of the story.
+Twine effects such as timed reveals and hiding/showing text should be used to enhance the story but not overwhelm it. This is a matter of opinon, but I am not sure how to avoid this. I would say to try and be consistent with the other posts, but that somehow seems against the sprit of the story. Just try to respect the story.
 
 ## Notes
 The story is written and owned by the author [_9MOTHER9HORSE9EYES9](https://www.reddit.com/u/_9MOTHER9HORSE9EYES9).
