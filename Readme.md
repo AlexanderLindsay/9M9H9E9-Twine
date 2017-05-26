@@ -5,7 +5,7 @@ The goal of this project is to translate the 9M9H9E9 story into a [Twine](https:
 The current version of the story is playable here: [https://9m9h9e9.now.sh/9M9H9E9.html](https://9m9h9e9.now.sh/9M9H9E9.html)
 Hosted using [Now](https://zeit.co/now) by [Zeit](https://zeit.co)
 
-It is also available on github pages [here](https://amlblog.net/9M9H9E9-Twine/)
+It is also available on github pages: [https://amlblog.net/9M9H9E9-Twine/](https://amlblog.net/9M9H9E9-Twine/)
 
 ## What is 9M9H9E9?
 
