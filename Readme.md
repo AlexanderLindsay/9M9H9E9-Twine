@@ -5,6 +5,8 @@ The goal of this project is to translate the 9M9H9E9 story into a [Twine](https:
 The current version of the story is playable here: [https://9m9h9e9.now.sh/9M9H9E9.html](https://9m9h9e9.now.sh/9M9H9E9.html)
 Hosted using [Now](https://zeit.co/now) by [Zeit](https://zeit.co)
 
+It is also available on github pages [here](https://amlblog.net/9M9H9E9-Twine/)
+
 ## What is 9M9H9E9?
 
 9M9H9E9 is a story that was first told by way of Reddit post by Reddit user [/u/_9MOTHER9HORSE9EYES9](https://www.reddit.com/u/_9MOTHER9HORSE9EYES9). The story itself is far reaching, a description of a world where the gaps in our knowledge seek to consume us. The [/r/9M9H9E9](https://www.reddit.com/r/9M9H9E9/) subreddit is a good resource for more information, including all the [posts](https://www.reddit.com/r/9M9H9E9/wiki/narrative) ([part 2](https://www.reddit.com/r/9M9H9E9/wiki/narrative2)), a link to the story in [e-book(https://github.com/cryzed/The-Interface-Series-e-book) maintained by [/u/cryzed-](https://www.reddit.com/u/cryzed-). 
