@@ -80,5 +80,14 @@ Then add a reference to the `includes.tw2` file to the `::StoryIncludes` section
 
 Twine effects such as timed reveals and hiding/showing text should be used to enhance the story but not overwhelm it. This is a matter of opinon, but I am not sure how to avoid this. I would say to try and be consistent with the other posts, but that somehow seems against the sprit of the story. Just try to respect the story.
 
+## Now
+
+To create a now deployment:
+
+In the `docs` folder:
+
+1) run `now`
+1) run `now alias`
+
 ## Notes
 The story is written and owned by the author [_9MOTHER9HORSE9EYES9](https://www.reddit.com/u/_9MOTHER9HORSE9EYES9).
