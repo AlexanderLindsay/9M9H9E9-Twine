@@ -1,0 +1,32 @@
+{
+    "version": "0.1.0",
+    "options": {
+        "cwd": "${workspaceRoot}"
+    },
+    "runner": "terminal",
+    "showOutput": "always",
+    "command": "twee2",
+    "echoCommand": true,
+    "isShellCommand":true,
+    "suppressTaskName": true,
+    "tasks": [
+       {
+           "taskName": "build",
+           "isBuildCommand": true
+        //    "args": [
+        //        "build",
+        //        "source.tw2",
+        //        "docs/index.html"
+        //    ]
+       },
+        {
+           "taskName": "watch",
+           "isBackground": true
+        //    "args": [
+        //        "watch",
+        //        "source.tw2",
+        //        "docs/index.html"
+        //    ]
+       }
+    ]
+}
