@@ -1,0 +1,18 @@
+::post15
+
+In explaining our cruelty, which, I admit, was quite beyond scope of all humanity, I feel I must remind you of how we (link-reveal:"lost")[(show:?lost)] the war.
+
+|lost)[We lost the war in the (link-reveal:"cruelest")[(show:?island)] way imaginable.] 
+
+|island)[Island after island fell, and the (link-reveal:"enemy")[(show:?bomb)] drew closer and closer.] 
+
+|bomb)[More and more bombs fell on our (link-reveal:"cities")[(show:?food)].]
+
+|food)[Food grew more and more (link-reveal:"scarce")[(show:?starved)].]
+
+|starved)[People starved.
+
+|house>[House burned]]
+
+(click-replace:?house)[|people>[people burned] ]
+(click-replace:?people)[[[*children* burned->post15-dignity]]]

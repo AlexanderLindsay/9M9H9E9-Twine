@@ -1,0 +1,14 @@
+::post15-home
+
+We were facing the end of the (link-reveal:"Japanese")[(show:?end)] as a free race. 
+
+[Perhaps the (link-reveal:"end")[(show:?easy)] of all Japanese existence.](end|
+
+[The Germans would have it easy compared to us. Many Americans were German in origin. There was a blood affinity between the countries. (link-reveal:"This did not exist for us.")[(show:?exist)]](easy| 
+
+[The Americans would |cities>[burn our cities]. We would be cross-bred with the whites until we had become some degenerate half-castes. Japanese culture would crumble. The stories of our childhoods would be [[forgotten->post15-forgotten]].](exist|
+
+(click-append:?cities)[ |woman>[and rape our woman]]
+(click-append:?woman)[ |enslave>[and enslave us]]
+(click-append:?enslave)[, |servants>[make us servants]]
+(click-append:?servants)[, like their 'niguro']

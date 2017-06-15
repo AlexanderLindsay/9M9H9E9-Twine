@@ -3,9 +3,11 @@ dest="includes.tw2"
 currentPost=${PWD##*/}
 files=(*)
 
-echo "::StoryIncludes" >> $dest
+echo "::StoryIncludes" > $dest
 
 for file in "${files[@]}"
 do
- echo "posts/"$currentPost"/"$file >> $dest
+ if [ $file != "includes.tw2" ]; then
+    echo "posts/"$currentPost"/"$file >> $dest
+ fi
 done
